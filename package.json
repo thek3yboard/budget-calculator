@@ -26,6 +26,7 @@
     "core-js": "^2.5.4",
     "fstream": "^1.0.12",
     "handlebars": "^4.3.0",
+    "kind-of": "^6.0.3",
     "lodash": "^4.17.12",
     "lodash.mergewith": "^4.6.2",
     "minimist": "^1.2.2",
